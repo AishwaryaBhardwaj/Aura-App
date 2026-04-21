@@ -5,14 +5,17 @@ Aura is a high-end, intentional dating experience designed to move beyond the "s
 ## 📱 Experience the App
 To take a quick look at the live animations and the **Zen-inspired** UI, follow these steps:
 
-### 1. Scan the QR Code
+### 1. Netlify Link: 
+https://69e7badcdef126a90d86f51e--bespoke-froyo-e8b4d0.netlify.app/lovers-story
+
+### 2. Scan the QR Code
 Open the camera on your phone and scan the code below.
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3328b4d7-2abc-472b-a29d-367f122252ad" />
 
 **Note**: You must have the [Expo Go](https://expo.dev/go) app installed (available on App Store and Play Store).
 
-### 2. Deep Link
+### 3. Deep Link
 If you are on your mobile device, you can launch the app directly:
 👉 **[Launch Aura on Expo Go](exp+aura-app://expo-development-client/?url=https://u.expo.dev/019c8525-d3a5-729f-a149-7bac131fd3c0?channel-name=main)**
 
